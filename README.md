@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ItsJensen&color=blue)
+- Student software development ROC Midden Nederland
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ItsJensen/github-profile-trophy)
+
+
+![](https://komarev.com/ghpvc/?username=ItsJensen&color=blue)
