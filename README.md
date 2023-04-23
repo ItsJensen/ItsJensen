@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!) <br/>
+
 ### Hi there 👋
 
 - Student software development ROC Midden Nederland
